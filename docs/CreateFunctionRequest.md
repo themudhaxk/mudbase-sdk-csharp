@@ -1,0 +1,14 @@
+# Mudbase.SDK.Model.CreateFunctionRequest
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**Name** | **string** |  | 
+**Description** | **string** |  | [optional] 
+**Code** | **string** | Function body (async, has access to payload, db, files, messaging, wallet, utils, env, console) | 
+**Trigger** | [**FunctionTrigger**](FunctionTrigger.md) |  | 
+**VarEnvironment** | **Dictionary&lt;string, string&gt;** | Per-function env vars injected into sandbox | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
