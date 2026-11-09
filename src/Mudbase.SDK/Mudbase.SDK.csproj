@@ -11,7 +11,8 @@
     <Company>OpenAPI</Company>
     <AssemblyTitle>OpenAPI Library</AssemblyTitle>
     <Description>Official C# client for the MUDBASE API.</Description>
-    <Copyright>No Copyright</Copyright>
+    <Copyright>Copyright (c) 2026 Mudbase Inc</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RootNamespace>Mudbase.SDK</RootNamespace>
     <Version>1.3.17</Version>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\Mudbase.SDK.xml</DocumentationFile>
